@@ -5,3 +5,8 @@ if (myAge >= 18) {
 } else {
     console.log("You are a minor.");
 }
+
+//A simple for loop
+for (let i: number = 0; i < 5; i++) {
+    console.log(`Index: ${i}`);
+}   
