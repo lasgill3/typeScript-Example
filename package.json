@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/lasgill3/typeScript-Example/issues"
   },
-  "homepage": "https://github.com/lasgill3/typeScript-Example#readme"
+  "homepage": "https://github.com/lasgill3/typeScript-Example#readme",
+  "devDependencies": {
+    "@types/node": "^24.7.2"
+  }
 }
