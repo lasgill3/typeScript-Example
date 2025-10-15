@@ -1,3 +1,5 @@
-export function greet(name: string) {
+function greet(name: string) {
     return `Hello, ${name}!`;
 }
+
+module.exports = { greet };
