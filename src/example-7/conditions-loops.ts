@@ -1,5 +1,5 @@
 //A simple conditional statement
-let myAge: number = 9;
+let myAge: number = 18;
 if (myAge >= 18) {
     console.log("You are an adult.");
 } else {
