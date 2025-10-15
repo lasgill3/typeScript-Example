@@ -13,7 +13,7 @@ const welcome = (name: string ): string => {
     return "hello, " + name; 
 }   
 
-//call the arrow function with a parameter
+//call the arrow function with a parameter  
 console.log(welcome("John"));
 
 
