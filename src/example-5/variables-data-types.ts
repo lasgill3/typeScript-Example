@@ -25,3 +25,7 @@ console.log(`let variable: ${letVariable}`);
 // const variables cannot be redeclared or reassigned
 const pi: number = 3.14; 
 console.log(`const variable: ${pi}`);  
+
+
+//Part 4: Boolean
+let isTypeScriptFun: boolean = true;
