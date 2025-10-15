@@ -1,5 +1,5 @@
-// import {readFile} from 'fs';
-const { readFile } = require("fs");
+// import {readFile} from "fs";
+const { readFile } = require('fs'); 
 
 //Read a text file 
 readFile('src/example-3/example.txt', 'utf8', (err: any, data: any) => {
